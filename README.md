@@ -5,15 +5,14 @@ This repository contains simple Python projects built as part of my learning thr
 ### 🔹 Password Generator
 Generates a secure random password using letters, digits, and symbols.
 
-### 🔹 Number Guessing Game
-Classic game where user guesses a random number between 1–100.
+### 🔹 Rock Paper Scissors game
+rock paper scissors game
 
-### 🔹 Simple Calculator
-Takes user input and performs basic operations (+, –, *, /) with error handling.
+### 🔹 tip calculator
+a calculator used to calculate tip to give in restaurants based on no. of people and total bill and percentage of tip
 
-### Rock Paper Scissors game
-
-### tip calculator
+### 🔹 treasure island game
+classic game where user is given choices and story changes as the user changes their choices
 
 ## Built With:
 - Python 3
